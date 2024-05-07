@@ -34,3 +34,9 @@ const start=async()=>{
     }
 };
 start();
+
+// app.get("/getUsers",async(req,res)=>{
+//     const userData=userModel.find(
+//         res.json(userData)
+//     )
+// })
